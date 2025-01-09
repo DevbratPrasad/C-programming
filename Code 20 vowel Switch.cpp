@@ -4,7 +4,7 @@ int main()
 	char ch;
 	printf("enter the alphabet:");
 	scanf("%c",&c);
-	switch(c)
+	switch(ch)
 	{
 		case'a':
 		case'A':printf("Vowel");
